@@ -9,7 +9,7 @@ Original file is located at
 
 
 
-import openai
+
 
 openai.api_key = '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'
 
