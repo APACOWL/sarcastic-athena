@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1BI_gZ_TdBcloXqoU9Zoijv-SoNuk8DBS
 """
 
-pip install openai
+
 
 import openai
 
